@@ -1,0 +1,14 @@
+layout_spectrum: 0.24501887056976557
+typography_spectrum: 0.5495947764720768
+color:
+  brandStrength: 0.19430229160934687
+  lightness: 0.2028176945168525
+  saturation: 0.6197754801250994
+  rhythmicContrast: 0.4410206030588597
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: ADELgram
